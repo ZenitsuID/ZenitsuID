@@ -46,7 +46,7 @@
 
 <br/><br/>
 
-[![Zenitsu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zenitsu-ID&show_icons=true)](https://github.com/Zenitsu-ID)
+[![Zenitsu GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZenitsuID&show_icons=true)](https://github.com/ZenitsuID)
 
 <br/>
 
@@ -54,7 +54,7 @@
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenitsu-ID&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenitsuID&show_icons=true)
 
 <br><br>
 
